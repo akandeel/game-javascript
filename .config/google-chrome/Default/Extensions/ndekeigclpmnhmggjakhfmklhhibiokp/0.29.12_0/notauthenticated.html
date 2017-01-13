@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>BrandMyMail Chrome Extension Options</title>
+<script type="text/javascript" src="content/plugins/jquery.min.js"></script>
+<script type="text/javascript" src="content/bmmAuth.js"></script>
+<script type="text/javascript">
+//get the host
+var host = localStorage['livehost'];
+switch(localStorage['mode']){
+	case 'local':
+	        host = localStorage['localhost'];
+			break;
+	case 'dev':
+			host = localStorage['devhost'];
+			break;
+	case 'live':
+	default:
+	        break;
+}
+
+function set_status(){
+	$("#spinner").hide();
+    var username = localStorage["username"];
+    var userkey = localStorage["userkey"];
+    if(username && userkey){
+	    $("#status").html("Thank you for BrandMyMail activation. Please, reload your Gmail tabs ...");
+	    //window.close();
+    }
+}
+
+function connect(){
+	$("#connect").hide();
+	$("#spinner").show();
+	authenticate(host, localStorage["version"], function(data){
+    	localStorage['username'] = data['username'];
+		localStorage['userkey'] = data['userkey'];
+		localStorage['token'] = data['token'];
+		var current_time = new Date();
+		localStorage['token_valid_until'] = current_time.getTime() + 10*24*60*60*1000;
+		set_status();
+    },
+    function(data){
+    	chrome.tabs.create({'url': 'http://' + host + '/browser_extension_setup'}, function(tab) {
+        	// need to comment since we had infinite loop of reload in some cases
+        	// window.close();
+        	$("#status").html("Activation is failed");
+        	$("#spinner").hide();
+    	});
+    });
+    
+}
+</script>
+</head>
+<body onload="set_status();">
+<div id="brandmymail_notification">
+    <div id="status">You need to connect your extension to your BrandMyMail account.</div>
+    <div id="connect">
+        <input type="button" id="#connect_action" value="Connect" onclick="connect();"/>
+    </div>
+    <div id="spinner">Activating ...</div>
+</div>
+
+
+</body>
+</html>

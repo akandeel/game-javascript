@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ERPAG je ERP klaud aplikacija koja pokriva sve glavne poslovne procese koji su potrebni malim i srednjim poduzećima.."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ERPAG ERP"
+   }
+}

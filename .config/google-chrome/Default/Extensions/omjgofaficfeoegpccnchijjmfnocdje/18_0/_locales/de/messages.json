@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ERPAG ist ein ERP Cloud-Dienst, der alle Geschäftsprozesse kleiner oder mittlerer Unternehmen umfasst."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ERPAG ERP"
+   }
+}

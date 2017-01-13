@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://graph.tk/"
+      },
+      "urls": [ "http://graph.tk/about" ]
+   },
+   "description": "Plot mathematical functions with this graphing utility",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiwbPrcGodrDAcPIC+EE6k0nD2Gprn5jr2EsJZ4HcOS8zNWpvz2bg8Xna1ct5mJSteb3rd4Qz03h4Qg5iCkdAuHvgP+DAfIf4IA/YWDZcy8tHjwWvuQ1zbdxV/hXhR3Cll24GMzcHzTj/IgmJYTUoWWK93xnKINnyhRGKUz/p+/QIDAQAB",
+   "name": "Graph.tk",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.1.0"
+}

@@ -1,0 +1,98 @@
+{
+   "bmm_dialog_OK": {
+      "description": "OK",
+      "message": "Confirmar"
+   },
+   "bmm_dialog_cancel": {
+      "description": "Cancel",
+      "message": "Cancelar"
+   },
+   "bmm_dialog_send": {
+      "description": "Send",
+      "message": "Enviar"
+   },
+   "bmm_dialog_title": {
+      "description": "BrandMyMail Message",
+      "message": "Mensaje BrandMyMail:"
+   },
+   "bmm_error_activation": {
+      "description": "Activate before use",
+      "message": "Tienes que activa la extensión BrandMyMail antes de poder usarlo en gmail."
+   },
+   "bmm_error_activationbutton": {
+      "description": "Activate",
+      "message": "Activar"
+   },
+   "bmm_error_serverdown": {
+      "description": "Bmm server is down",
+      "message": "El servidor está abajo BrandMyMail Inténtelo de nuevo más tarde."
+   },
+   "bmm_gmail_button_edit_tooltip": {
+      "description": "Link Tooltip",
+      "message": "Editar plantilla"
+   },
+   "bmm_gmail_button_logo_tooltip": {
+      "description": "Link Tooltip",
+      "message": "BrandMyMail a Gmail"
+   },
+   "bmm_gmail_button_preview": {
+      "description": "Preview",
+      "message": "Mostrar"
+   },
+   "bmm_gmail_button_send": {
+      "description": "Send",
+      "message": "Enviar"
+   },
+   "bmm_gmail_button_signature_tooltip": {
+      "description": "Link Tooltip",
+      "message": "Añadir Assiantura"
+   },
+   "bmm_gmail_preparing": {
+      "description": "Preparing BMM message",
+      "message": "Preparación mensaje BrandMyMail ..."
+   },
+   "bmm_gmail_template_label": {
+      "description": "Template label",
+      "message": "Plantilla"
+   },
+   "bmm_gmail_templates_options_new": {
+      "description": "Option text",
+      "message": "Nueva plantilla..."
+   },
+   "bmm_menu_options": {
+      "description": "Options",
+      "message": "Opciones BrandMyMail"
+   },
+   "bmm_menu_settings": {
+      "description": "Settings",
+      "message": "Configuración BrandMyMail"
+   },
+   "bmm_status_active": {
+      "description": "You are in BMM active area",
+      "message": "Usted está en el área BrandMyMail activo."
+   },
+   "bmm_status_failed": {
+      "description": "BMM extension failure",
+      "message": "Error de extensión BrandMyMail."
+   },
+   "bmm_status_installed": {
+      "description": "You need to activate",
+      "message": "Es necesario activar extensión BrandMyMail."
+   },
+   "bmm_status_ready": {
+      "description": "BMM extension is ready",
+      "message": "Extensión BrandMyMail está listo."
+   },
+   "defTitle": {
+      "description": "Short Title",
+      "message": "BrandMyMail"
+   },
+   "extDescription": {
+      "description": "Description",
+      "message": "Marca su correo electrónico con tu look empresa, las firmas dinámicas y plantillas de correo electrónico de su GMail."
+   },
+   "extName": {
+      "description": "Title",
+      "message": "BrandMyMail - Firmas de correo electrónico"
+   }
+}

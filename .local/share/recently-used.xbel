@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_amr0/google-chrome-stable_current_amd64.deb" added="2017-01-05T02:48:08Z" modified="2017-01-05T02:48:08Z" visited="2017-01-05T02:48:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-05T02:48:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/atom-amd64.deb" added="2017-01-05T02:51:47Z" modified="2017-01-05T02:51:47Z" visited="2017-01-05T02:51:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-05T02:51:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/col-assignment/collaborative_writing/novel.txt" added="2017-01-09T21:30:04Z" modified="2017-01-09T21:30:04Z" visited="2017-01-09T21:30:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-09T21:30:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/fed-css-selectors/index.html" added="2017-01-10T19:42:56Z" modified="2017-01-10T20:00:14Z" visited="2017-01-10T19:42:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-10T20:00:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Pictures/Screenshot%20from%202017-01-10%2018-20-02.png" added="2017-01-10T23:20:12Z" modified="2017-01-10T23:20:58Z" visited="2017-01-10T23:20:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-01-10T23:20:12Z" count="1"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-01-10T23:20:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-display-layout/html" added="2017-01-11T18:39:49Z" modified="2017-01-11T18:39:49Z" visited="2017-01-11T18:39:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-11T18:39:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-display-layout/index.html" added="2017-01-11T18:41:38Z" modified="2017-01-12T21:39:20Z" visited="2017-01-11T18:41:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T21:39:20Z" count="8"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-11T19:35:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-display-layout/styles.css" added="2017-01-11T19:36:03Z" modified="2017-01-12T00:46:30Z" visited="2017-01-11T19:36:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T00:46:23Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T00:46:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/index.html" added="2017-01-11T22:20:04Z" modified="2017-01-11T23:16:15Z" visited="2017-01-11T22:20:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-01-11T22:58:17Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-11T23:16:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning.zip" added="2017-01-12T15:15:37Z" modified="2017-01-12T16:53:56Z" visited="2017-01-12T15:15:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-01-12T16:53:56Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/.cache/.fr-wv3qLC/04-floats-and-positioning/README.md" added="2017-01-12T15:34:07Z" modified="2017-01-12T15:34:07Z" visited="2017-01-12T15:34:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T15:34:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/.cache/.fr-deQwHP/04-floats-and-positioning/floats/example-use-cases/student/two-column-layout/styles.css" added="2017-01-12T15:36:13Z" modified="2017-01-12T15:36:13Z" visited="2017-01-12T15:36:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T15:36:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/.cache/.fr-YlAVro/04-floats-and-positioning/floats/example-use-cases/student/two-column-layout/styles.css" added="2017-01-12T15:40:17Z" modified="2017-01-12T15:40:17Z" visited="2017-01-12T15:40:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T15:40:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/.cache/.fr-5orzVB/04-floats-and-positioning/floats/example-use-cases/student/two-column-layout/styles.css" added="2017-01-12T15:41:43Z" modified="2017-01-12T15:41:43Z" visited="2017-01-12T15:41:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T15:41:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads" added="2017-01-12T16:21:25Z" modified="2017-01-12T16:21:25Z" visited="2017-01-12T16:21:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-01-12T16:21:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning/floats/example-use-cases/student/wrap-around-img/img/chest.jpg" added="2017-01-12T16:21:50Z" modified="2017-01-12T16:21:50Z" visited="2017-01-12T16:21:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-01-12T16:21:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning/positioning/lesson/index.html" added="2017-01-12T16:26:29Z" modified="2017-01-12T16:28:06Z" visited="2017-01-12T16:26:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T16:28:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning/positioning/menu-exercise/instructor/index.html" added="2017-01-12T16:28:29Z" modified="2017-01-12T17:06:11Z" visited="2017-01-12T16:28:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T17:06:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning/positioning/menu-exercise/final/index.html" added="2017-01-12T16:45:00Z" modified="2017-01-12T16:56:03Z" visited="2017-01-12T16:45:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T16:56:03Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/04-floats-and-positioning/positioning/menu-exercise/instructor/styles.css" added="2017-01-12T17:06:19Z" modified="2017-01-12T17:06:19Z" visited="2017-01-12T17:06:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T17:06:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master.zip" added="2017-01-12T17:54:21Z" modified="2017-01-12T21:40:23Z" visited="2017-01-12T17:54:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-01-12T21:40:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/readme.md" added="2017-01-12T17:55:38Z" modified="2017-01-12T17:55:38Z" visited="2017-01-12T17:55:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T17:55:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/solution-code/index.html" added="2017-01-12T17:55:51Z" modified="2017-01-12T17:55:51Z" visited="2017-01-12T17:55:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T17:55:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/starter-code/index.html" added="2017-01-12T17:56:16Z" modified="2017-01-12T18:00:09Z" visited="2017-01-12T17:56:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T18:00:09Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/starter-code/css/main.css" added="2017-01-12T18:00:23Z" modified="2017-01-12T18:00:23Z" visited="2017-01-12T18:00:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T18:00:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/starter-code/images/badge-android.png" added="2017-01-12T18:47:31Z" modified="2017-01-12T18:47:31Z" visited="2017-01-12T18:47:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-01-12T18:47:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/css-site-replication-master/starter-code/images" added="2017-01-12T18:49:39Z" modified="2017-01-12T18:49:39Z" visited="2017-01-12T18:49:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T18:49:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-site-replication-master/starter-code/index.html" added="2017-01-12T20:21:57Z" modified="2017-01-12T20:21:57Z" visited="2017-01-12T20:21:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T20:21:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/.cache/.fr-HTTpnD/css-site-replication-master/readme.md" added="2017-01-12T21:40:30Z" modified="2017-01-12T21:40:30Z" visited="2017-01-12T21:40:30.934148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T21:40:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://invoice.zoho.com"
+      },
+      "urls": [ "https://invoice.zoho.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "invoice_icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHlkzQqfDiuAxKMAyje52436SM1OXCXwipPKoruJTjyd8jML3wnniaGXHCfCcy+vDCP1D8EDFRid5uxPnUdaSrKzHuPXN43hLFuXM32LgtDJaYt2FaYVdhPzT5Z9xqWfENHrGmnkfhq4dsl/oEfsoUfC6d9gQg13M7K7d669LZgQIDAQAB",
+   "manifest_version": 2,
+   "name": "Zoho Invoice and Time Tracking",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

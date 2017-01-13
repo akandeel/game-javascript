@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ERPAG-это облачный сервис для планирования ресурсов предприятия, который охватывает все бизнес-процессы малых и средний компаний."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ERPAG ERP"
+   }
+}

@@ -1,0 +1,891 @@
+WARN  2017-01-10 10:29:35 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2017-01-10 10:29:37 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+WARN  2017-01-10 11:00:52 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+[1:1:0110/110151:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+
+(nautilus:5831): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:5831): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:5831): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:5831): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:5831): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+ERROR 2017-01-10 13:38:48 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2017-01-10 13:39:22 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+
+(nautilus:6291): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6291): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6291): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6291): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6291): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(nautilus:7840): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7840): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7840): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:7840): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:7840): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+A Parser-blocking, cross-origin script, https://auslieferung.commindo-media-ressourcen.de/www/delivery/spc.php?zones=Medium%20Rectangle=22|Content%20Ad%20Middle=110|Comment%20Sponsor=26|Sidebar%20Special%201=72|Sidebar%20Special%202=72|Sidebar%20Special%203=72|Sidebar%20Special%204=72|Sidebar%201=40|Sidebar%202=40|Sidebar%203=40|Sponsor%20XXL%201=77|Sponsor%20XXL%202=77|Sponsor%20XXL%203=77|Sponsor%20XXL%204=77|Sponsor%20XXL%205=77|VIS%201=70|VIS%202=70|VIS%203=70|VIS%204=70|VIS%205=70|spnsr%20ROS%201=24|spnsr%20ROS%202=24|spnsr%20ROS%203=24|spnsr%20ROS%204=24|spnsr%20ROS%205=24|spnsr%20ROS%206=24|spnsr%20ROS%207=24|spnsr%20ROS%208=24|spnsr%20ROS%209=24|spnsr%20ROS%2010=24|&nz=1&r=43951131&block=1&blockcampaign=1&withtext=1&charset=UTF-8&loc=https://www.smashingmagazine.com/2009/09/complete-guide-to-css-font-stacks/, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://auslieferung.commindo-media-ressourcen.de/www/delivery/spc.php?zones=Medium%20Rectangle=22|Content%20Ad%20Middle=110|Comment%20Sponsor=26|Sidebar%20Special%201=72|Sidebar%20Special%202=72|Sidebar%20Special%203=72|Sidebar%20Special%204=72|Sidebar%201=40|Sidebar%202=40|Sidebar%203=40|Sponsor%20XXL%201=77|Sponsor%20XXL%202=77|Sponsor%20XXL%203=77|Sponsor%20XXL%204=77|Sponsor%20XXL%205=77|VIS%201=70|VIS%202=70|VIS%203=70|VIS%204=70|VIS%205=70|spnsr%20ROS%201=24|spnsr%20ROS%202=24|spnsr%20ROS%203=24|spnsr%20ROS%204=24|spnsr%20ROS%205=24|spnsr%20ROS%206=24|spnsr%20ROS%207=24|spnsr%20ROS%208=24|spnsr%20ROS%209=24|spnsr%20ROS%2010=24|&nz=1&r=43951131&block=1&blockcampaign=1&withtext=1&charset=UTF-8&loc=https://www.smashingmagazine.com/2009/09/complete-guide-to-css-font-stacks/, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[3043:3078:0110/150606:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/150617:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/150634:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/152359:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/152829:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/152838:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/174654:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0110/180615:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0111/094243:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0111/101207:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[3043:3078:0111/104117:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0111/105532:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0111/111931:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0111/111939:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0111/114526:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0111/122429:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0111/131313:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -21
+[1:1:0111/131538:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/131552:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/131557:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/131603:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[3043:3078:0111/132326:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+ERROR 2017-01-11 13:31:16 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+
+(nautilus:18596): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:18596): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:18596): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:18596): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:18596): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Xlib: sequence lost (0x3d0000 > 0x3cffff) in reply type 0x0!
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+ERROR 2017-01-11 15:36:14 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2017-01-11 15:36:23 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+
+(nautilus:24822): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:24822): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:24822): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:24822): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:24822): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:25166): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:25166): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:25166): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:25166): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:25166): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+ERROR 2017-01-11 17:27:30 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+[3043:3078:0111/181144:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+
+(nautilus:26298): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:26298): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:26298): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:26298): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:26298): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:27443): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:27443): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:27443): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:27443): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:27443): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3078:0111/190928:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0111/194444:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -21
+
+(nautilus:28360): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:28360): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:28360): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:28360): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:28360): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[1:1:0111/194840:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/194846:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/194850:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0111/194854:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+
+(nautilus:29175): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:29175): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:29175): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:29175): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:29175): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:29453): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:29453): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:29453): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:29453): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:29453): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+(gnome-language-selector:30438): Gtk-DEBUG: Connecting to session manager
+
+(nautilus:31830): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:31830): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:31830): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:31830): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:31830): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:31864): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:31864): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:31864): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:31864): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:31864): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3078:0111/214541:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0112/083940:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+
+(nautilus:32321): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:32321): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:32321): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:32321): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:32321): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3078:0112/084030:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0112/084227:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3078:0112/084624:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -106
+[3043:3197:0112/084825:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+[3043:3197:0112/095646:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+[1:1:0112/101026:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101033:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101106:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101110:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101141:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101146:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101153:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101233:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101238:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101320:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101328:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101339:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101411:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0112/101415:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Created new window in existing browser session.
+Created new window in existing browser session.
+Created new window in existing browser session.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[3043:3078:0112/105849:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+Created new window in existing browser session.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Created new window in existing browser session.
+[3043:3043:0112/110837:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'setText' of null", source:  (0)
+[3043:3043:0112/110838:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'setText' of null", source:  (0)
+[3043:3043:0112/110838:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'setText' of null", source:  (0)
+[3043:3043:0112/110839:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'setText' of null", source:  (0)
+[3043:3043:0112/110839:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'setText' of null", source:  (0)
+[3043:3043:0112/110839:ERROR:CONSOLE(1325)] "Uncaught TypeError: Cannot set property 'value' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1325)
+Created new window in existing browser session.
+1484237531260	addons.xpi	WARN	Bootstrap state is invalid (missing add-ons: /home/amr/.mozilla/firefox/ju8ttapw.default/extensions/firefox-hotfix@mozilla.org.xpi)
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_107.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_107.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3657557392715176&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809080%2C108809008&sc=0&sfv=1-0-5&iu=%2F87824813%2Fca.hello%2Fhome&sz=1x1&ists=1&scp=position%3Doutofpage1x1&d_imp=1&cookie_enabled=1&lmt=1484237630&dt=1484237630136&cc=4&frm=20&biw=1855&bih=966&oid=3&adx=0&ady=35&adk=55759459&gut=v2&ifi=1&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=11&icsg=235&std=0&csl=60&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3657557392715176&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809080%2C108809008&sc=0&sfv=1-0-5&iu=%2F87824813%2Fca.hello%2Fhome&sz=1x1&ists=1&scp=position%3Doutofpage1x1&d_imp=1&cookie_enabled=1&lmt=1484237630&dt=1484237630136&cc=4&frm=20&biw=1855&bih=966&oid=3&adx=0&ady=35&adk=55759459&gut=v2&ifi=1&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=11&icsg=235&std=0&csl=60&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssyMuAStVj4Ip2j9j_PGPEHiYi-oHSaP1Q3W0tQhhOpamNRHpQRu4Eg2ULasffJdlo6YdFuvVDsrg5ewbF6ddViSuS7xq9K2eBLMrKqDzm8ixXzj2ctuVoK_p0SJrUcBS61ZfColdFYZFB0covig5MxMIqgamDkzxD3_435T7-huYZswJH4m8PX2UdduOUHuvblkp5xWXi-RRbG-D841IZAdP6RMCQZR56bR2S9Ix-qMoeMYD4h&sig=Cg0ArKJSzIU57fUzXXLeEAE&urlfix=1&adurl=http://www.googletagservices.com/tag/js/gpt.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssyMuAStVj4Ip2j9j_PGPEHiYi-oHSaP1Q3W0tQhhOpamNRHpQRu4Eg2ULasffJdlo6YdFuvVDsrg5ewbF6ddViSuS7xq9K2eBLMrKqDzm8ixXzj2ctuVoK_p0SJrUcBS61ZfColdFYZFB0covig5MxMIqgamDkzxD3_435T7-huYZswJH4m8PX2UdduOUHuvblkp5xWXi-RRbG-D841IZAdP6RMCQZR56bR2S9Ix-qMoeMYD4h&sig=Cg0ArKJSzIU57fUzXXLeEAE&urlfix=1&adurl=http://www.googletagservices.com/tag/js/gpt.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=7326%2Frogers.publishing%2FHello.CPGWomens%2Fhomepage&sz=1x1&click=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%25253Fxai%25253DAKAOjstaZkBv3U7PKZOPlzHCw6RvikR23ixvJzOL051UyWEKJgju4NGQYGGuISbTEg8IhaqgwieldnKB1NhOdDzvFFNL6YW5F5d7it5G3fiilzMZkGiJdJSCo0SlXidLUxj2UjWlHoAwTBNYmXSxEUpLPrFR36Gau5lrjXiSyqXwx4K3QxBasEDYaPtOVIKvtE6jm6g9ZE9sNrxpYsFyKuZr2JkOoHcYu2HxuRgUxewWsZcfeN_Y%252526sig%25253DCg0ArKJSzOTyuap1xa6-EAE%252526urlfix%25253D1%252526adurl%25253D&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630439&cc=4&frm=20&biw=1855&bih=966&oid=3&adk=4175215860&ifi=2&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=14&icsg=134842&std=0&csl=505&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=7326%2Frogers.publishing%2FHello.CPGWomens%2Fhomepage&sz=1x1&click=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%25253Fxai%25253DAKAOjstaZkBv3U7PKZOPlzHCw6RvikR23ixvJzOL051UyWEKJgju4NGQYGGuISbTEg8IhaqgwieldnKB1NhOdDzvFFNL6YW5F5d7it5G3fiilzMZkGiJdJSCo0SlXidLUxj2UjWlHoAwTBNYmXSxEUpLPrFR36Gau5lrjXiSyqXwx4K3QxBasEDYaPtOVIKvtE6jm6g9ZE9sNrxpYsFyKuZr2JkOoHcYu2HxuRgUxewWsZcfeN_Y%252526sig%25253DCg0ArKJSzOTyuap1xa6-EAE%252526urlfix%25253D1%252526adurl%25253D&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630439&cc=4&frm=20&biw=1855&bih=966&oid=3&adk=4175215860&ifi=2&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=14&icsg=134842&std=0&csl=505&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://z.moatads.com/rogerscommunications71796137600/moatad.js#moatClientLevel1=14131104&moatClientLevel2=248731224&moatClientLevel3=202862424&moatClientLevel4=94289217024&moatClientSlicer1=17743104&moatClientSlicer2=18704064&zMoatPS=&zMoatMR=&zMoatSZ=1x1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://z.moatads.com/rogerscommunications71796137600/moatad.js#moatClientLevel1=14131104&moatClientLevel2=248731224&moatClientLevel3=202862424&moatClientLevel4=94289217024&moatClientSlicer1=17743104&moatClientSlicer2=18704064&zMoatPS=&zMoatMR=&zMoatSZ=1x1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3657557392715176&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=%2F87824813%2Fca.hello%2Fhome&sz=728x90%7C1000x90&scp=position%3Dmegabanner&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630753&cc=11&frm=20&biw=1855&bih=966&oid=3&adx=0&ady=109&adk=4243678348&gut=v2&ifi=3&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=26&icsg=2157480&std=0&csl=84&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3657557392715176&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=%2F87824813%2Fca.hello%2Fhome&sz=728x90%7C1000x90&scp=position%3Dmegabanner&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630753&cc=11&frm=20&biw=1855&bih=966&oid=3&adx=0&ady=109&adk=4243678348&gut=v2&ifi=3&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=26&icsg=2157480&std=0&csl=84&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://www.googletagservices.com/tag/js/gpt.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://www.googletagservices.com/tag/js/gpt.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=7326%2Frogers.publishing%2FHello.CPGWomens%2Fhomepage&sz=728x90&click=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%25253Fxai%25253DAKAOjssQjiJ6Q1NaBuwNaBEcQLfT-MGC4BiHGb0q4lncnoXFADZ0TchhGea0wURkxaOmp2x99khSNPN7tbbEU_Wr4NRxfUnwDgN9Poqv25Ii-L6agDNvg0cn2eHr0HVGmEAhUdGgJ0Oe2Z9Uw2rwT6ZAaQZKwGEm-IXWSirtl15-DyUhVDpOThzycURbmjnMZB_7BYyEj45lPspMshcplHSta2RAKQPBlxnhuhxq3CWMx88Nf3DR%252526sig%25253DCg0ArKJSzFzA0Gdx-0gaEAE%252526urlfix%25253D1%252526adurl%25253D&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630849&cc=11&frm=20&biw=1855&bih=966&oid=3&adk=2845986292&ifi=4&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=30&icsg=34519690&std=0&csl=503&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=7326%2Frogers.publishing%2FHello.CPGWomens%2Fhomepage&sz=728x90&click=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%25253Fxai%25253DAKAOjssQjiJ6Q1NaBuwNaBEcQLfT-MGC4BiHGb0q4lncnoXFADZ0TchhGea0wURkxaOmp2x99khSNPN7tbbEU_Wr4NRxfUnwDgN9Poqv25Ii-L6agDNvg0cn2eHr0HVGmEAhUdGgJ0Oe2Z9Uw2rwT6ZAaQZKwGEm-IXWSirtl15-DyUhVDpOThzycURbmjnMZB_7BYyEj45lPspMshcplHSta2RAKQPBlxnhuhxq3CWMx88Nf3DR%252526sig%25253DCg0ArKJSzFzA0Gdx-0gaEAE%252526urlfix%25253D1%252526adurl%25253D&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237630&dt=1484237630849&cc=11&frm=20&biw=1855&bih=966&oid=3&adk=2845986292&ifi=4&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=30&icsg=34519690&std=0&csl=503&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=%2F7326%2Frogers.publishing%2FHello.CPGWomens&sz=300x90&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237631&dt=1484237631179&cc=25&frm=20&biw=1855&bih=966&oid=3&adk=1617018836&ifi=5&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=35&icsg=552315050&std=0&csl=154&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3052056879883707&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C108809165%2C108809008&sc=0&sfv=1-0-5&iu=%2F7326%2Frogers.publishing%2FHello.CPGWomens&sz=300x90&eri=2&d_imp=1&cookie=ID%3D15db6d6cdf02735b%3AT%3D1484237630%3AS%3DALNI_Maek6MfFdE0ymUlBWZz0MA0Il8cXg&cookie_enabled=1&lmt=1484237631&dt=1484237631179&cc=25&frm=20&biw=1855&bih=966&oid=3&adk=1617018836&ifi=5&u_tz=-300&u_his=1&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=5&u_nmime=7&u_sd=1&flash=24.0.0&url=http%3A%2F%2Fca.hellomagazine.com%2F&ref=https%3A%2F%2Fwww.google.ca%2F&dssz=35&icsg=552315050&std=0&csl=154&vrg=107&vrp=107&ga_vid=866962003.1484237630&ga_sid=1484237630&ga_hid=558077561, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+ERROR 2017-01-12 11:16:57 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2017-01-12 11:16:57 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+[3043:3043:0112/111805:ERROR:CONSOLE(1258)] "Uncaught TypeError: Cannot read property 'index' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1258)
+[3043:3043:0112/111806:ERROR:CONSOLE(1288)] "Uncaught TypeError: Cannot read property 'propertyText' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1288)
+[3043:3043:0112/111819:ERROR:CONSOLE(1288)] "Uncaught TypeError: Cannot read property 'propertyText' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1288)
+[3043:3043:0112/111820:ERROR:CONSOLE(1288)] "Uncaught TypeError: Cannot read property 'propertyText' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1288)
+[3043:3043:0112/111821:ERROR:CONSOLE(1288)] "Uncaught TypeError: Cannot read property 'propertyText' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1288)
+[3043:3043:0112/111822:ERROR:CONSOLE(1288)] "Uncaught TypeError: Cannot read property 'propertyText' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (1288)
+1484238012614	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1484238012626	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1484238012635	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1484238012641	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1484238012648	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+(nautilus:6140): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6140): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6140): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6140): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6140): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3078:0112/112143:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00189 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00189 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10450 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+[3043:3078:0112/114403:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+ERROR 2017-01-12 11:57:27 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 11:57:49 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 11:57:52 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 11:57:53 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+[3043:3043:0112/115839:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[3043:3043:0112/120039:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[3043:3078:0112/120227:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+(nautilus:7844): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7844): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7844): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:7844): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:7844): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3078:0112/120445:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0112/121548:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3043:3078:0112/122451:ERROR:ssl_client_socket_impl.cc(1146)] handshake failed; returned -1, SSL error code 1, net_error -101
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+ERROR 2017-01-12 12:56:26 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+[3043:3043:0112/125739:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[3043:3043:0112/125850:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+ERROR 2017-01-12 14:00:16 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 14:00:17 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 14:00:18 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 14:00:31 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 14:00:31 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2017-01-12 14:00:31 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2017-01-12 14:00:31 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+
+(nautilus:11664): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:11664): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:11664): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:11664): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:11664): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3043:0112/145338:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+
+(nautilus:12735): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:12735): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:12735): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:12735): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:12735): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:13113): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13113): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13113): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:13113): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:13113): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:14018): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:14018): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:14018): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:14018): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:14018): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a001e0 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a001e0 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10464 x 14
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+
+(nautilus:15411): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:15411): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:15411): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:15411): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:15411): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3043:3043:0112/162743:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[3043:3043:0112/164239:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[3043:3043:0112/170052:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+compiz (opengl) - Info: Couldn't bind redirected window 0x3a00204 to texture
+
+compiz (opengl) - Warn: Bug in window 0x3a00204 (identifying as (none available))
+compiz (opengl) - Warn: This window tried to create an absurdly large window 10415 x 52
+
+compiz (opengl) - Warn: Unforunately, that's not supported on your hardware, because you have a maximum texture size of 8192
+compiz (opengl) - Warn: you should probably file a bug against that application
+compiz (opengl) - Warn: for now, we're going to hide tht window so that it doesn't break your desktop
+

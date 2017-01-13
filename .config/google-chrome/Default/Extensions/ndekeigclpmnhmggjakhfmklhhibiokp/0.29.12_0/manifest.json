@@ -1,0 +1,39 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "css/bmm.css" ],
+      "js": [ "content/frontend/gmail.js" ],
+      "matches": [ "*://mail.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "css": [ "css/bmm.css" ],
+      "js": [ "content/frontend/brandmymail.js" ],
+      "matches": [ "*://www.brandmymail.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "http://www.brandmymail.com",
+   "icons": {
+      "128": "skin/bmm_128x128.png",
+      "16": "skin/bmm_16x16.png",
+      "32": "skin/bmm_32x32.png",
+      "48": "skin/bmm_48x48.png",
+      "64": "skin/bmm_64x64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUvfCRJe1PZvpu8uIlfKiaGjXjlx2ptyniArS+sr3qbJkpj8AK8aQ1CHFHPbU4bt72zGWBu4JtqpX8A5A+Uda/ukPwH86rdCSo08q4rSmyveIYhZw6cB+1AYRiGxkNMvWEDb80mTxYE+DVSeWUKMuZA22vha1PwHDMNuXX7j+VGwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "8.0.0.0",
+   "name": "__MSG_extName__",
+   "permissions": [ "*://mail.google.com/", "*://www.brandmymail.com/*", "cookies", "notifications" ],
+   "sandbox": {
+      "pages": [ "preview.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.29.12",
+   "web_accessible_resources": [ "preview.html" ]
+}

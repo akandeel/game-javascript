@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ERPAG خدمة سحابية لتخطيط موارد المؤسسات (ERP) تغطي جميع عمليات النشاط للشركات الصغيرة والمتوسطة الحجم"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ERPAG ERP"
+   }
+}

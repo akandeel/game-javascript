@@ -1,0 +1,22 @@
+logrotate state -- version 2
+"/home/amr/.cache/upstart/indicator-keyboard.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/unity-panel-service.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/im-config.log" 2017-1-4-21:45:36
+"/home/amr/.cache/upstart/dbus.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/indicator-power.log" 2017-1-9-10:1:3
+"/home/amr/.cache/upstart/unity-settings-daemon.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/indicator-sound.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/gnome-keyring.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/update-notifier-release.log" 2017-1-9-10:1:3
+"/home/amr/.cache/upstart/gnome-keyring-gpg.log" 2017-1-4-21:45:36
+"/home/amr/.cache/upstart/indicator-printers.log" 2017-1-9-10:1:3
+"/home/amr/.cache/upstart/gnome-session-Unity.log" 2017-1-4-21:45:36
+"/home/amr/.cache/upstart/unity7.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/window-stack-bridge.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/indicator-session.log" 2017-1-9-10:1:3
+"/home/amr/.cache/upstart/ssh-agent.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/gnome-keyring-ssh.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/upstart-event-bridge.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/hud.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/gpg-agent.log" 2017-1-10-10:22:42
+"/home/amr/.cache/upstart/bamfdaemon.log" 2017-1-10-10:22:42

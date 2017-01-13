@@ -1,0 +1,30 @@
+{
+   "api_console_project_id": "943027289849",
+   "app": {
+      "launch": {
+         "web_url": "https://slemma.com/?utm_source=chrome-store&utm_medium=appstore&utm_campaign=slemma&utm_content=launch"
+      },
+      "urls": [ "https://slemma.com/" ]
+   },
+   "container": [ "GOOGLE_DRIVE", "DOMAIN_INSTALLABLE" ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://slemma.com/",
+         "title": "Open",
+         "type": [ "application/vnd.google-apps.drive-sdk" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo24NB2McjkoqDs8dMS9sdkaOXYkYEAaVrTyFJ9ZfI2e8LH1eNUAnSK92aguJOhEvZZc+3QW5/5WdQjV2CosjioPICIT9MMo8uiwmisfWIE0ynhihGmaaUJCnnzwZBBX1iK+PZQ3XvgFiyMfxehXMT6O3Bf2MUL1wTqQyi5gn8ladp/rHKZ030/p/c4KLYiVEjTlogleZ6MdMV6Z5cvP8x/y/mVtnShRcpp7toxXssSqAjLmPXkJgoIZWsXXC9X6eb3UxjWLXKn1NSMRb/hlyoxgbOG6Am9M7ugDWiDPJzp04ZZQY2e7cvGd0tnT5gpiiKIHF0tKJVpxe3tJYGhUtdwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "20"
+}

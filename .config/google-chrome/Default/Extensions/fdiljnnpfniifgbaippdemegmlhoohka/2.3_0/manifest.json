@@ -1,0 +1,28 @@
+{
+   "api_console_project_id": "701689253383",
+   "app": {
+      "launch": {
+         "web_url": "https://www.lucidpress.com/documents/driveApp"
+      },
+      "urls": [ "*://www.lucidpress.com/" ]
+   },
+   "container": [ "DOMAIN_INSTALLABLE", "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "lucidpress_icon.png"
+   },
+   "intents": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://www.lucidpress.com/documents/driveApp",
+         "title": "Open"
+      } ]
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCCE9QQwAsU1Ita4w5NhCbChm/m9t84pZ5SInis0iWijg5lmvnCiAqHP5AjjJA9x4e1hjVAfK2RsrvVLs97raJH4BmrfPxppKLtGwH40xGBFgz5flSpkKSbxrrSstNpQtaz5a0n191VJ8Yl2vgjGtPLtVnfHEyG33woozgjbKvX9wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications", "clipboardRead", "clipboardWrite" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3"
+}

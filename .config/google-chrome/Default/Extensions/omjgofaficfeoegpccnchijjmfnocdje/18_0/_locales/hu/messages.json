@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ERPAG egy ERP felhő szolgáltatás , amely magában foglalja az összes üzleti folyamatok a kis- és közepes méretű vállalatok számára."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ERPAG ERP"
+   }
+}

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>BrandMyMail Chrome Extension Options</title>
+		<link rel="stylesheet" type="text/css" href="css/popup.css" />
+		<script type="text/javascript" src="content/plugins/jquery.min.js"></script>
+		<script type="text/javascript" src="content/bmmAuth.js"></script>
+		<script type="text/javascript" src="content/popup/popup.js"></script>
+	</head>
+
+	<body>
+		<div id="brandmymail_options">
+		    <h2><a href="http://www.brandmymail.com" target="_blank">BrandMyMail</a> <span id="version"></span></h2>
+		    <div id="content">
+			    <div id="status" class="loading"></div>
+			    <div id="error"></div>
+		    </div>
+		    <ul id="button-dock-extension" class="clearfix">
+		        <li class="button color-2" id="connect">Connect</li>
+		        <li class="button color-2" id="disconnect">Disconnect</li>
+		        <li class="button color-1" id="feedback">Feedback</li>
+		    </ul>
+			<hr/>
+			<ul class="social-bar">
+				<li>	
+					<span class="share">Share with your Friends! </span>
+				</li>
+				<li>
+					<a class="popup-social sharebox" name="Facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.brandmymail.com&amp;t=BrandMyMail%20-%20Live%20social%20content%2C%20blog%20posts%2C%20signatures%20and%20more%20-%20in%20your%20mails">
+						<img class="icon-social" src="imgs/facebook_32.png">
+					</a>
+				</li>
+				<li>
+					<a class="popup-social sharebox" name="Twitter" target="_blank" href="http://twitter.com/share?text=BrandMyMail - Live social content, blog posts, signatures and more - in your mails http%3A%2F%2Fwww.brandmymail.com">
+						<img class="icon-social" src="imgs/twitter_32.png">
+					</a>
+				</li>
+				<li>
+					<a class="popup-social sharebox" name="LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.brandmymail.com&amp;title=BrandMyMail - Live social content, blog posts, signatures and more - in your mails &amp;summary=BrandMyMail extends your social presence into your emails. Easily embed blog posts, social status updates, pictures, signatures and more into your outgoing emails with the click of a button!&amp;source=brandmymail" target="_new">
+						<img class="icon-social" src="imgs/linkedin_32.png">
+					</a>
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>

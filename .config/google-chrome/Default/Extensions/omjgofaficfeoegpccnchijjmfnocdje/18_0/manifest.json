@@ -1,0 +1,21 @@
+{
+   "api_console_project_id": "502162508579",
+   "app": {
+      "launch": {
+         "web_url": "https://www.erpag.com/default.aspx?store=1"
+      },
+      "urls": [ "https://www.erpag.com/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvs6h+P09MFFSVENVPm822CsfkaBacJ/iUmMUKS0Z6I9VLEq1PeNbMczhbc6s2k4fPsdNWbDPLziJ+NC4PcRwYrEYfRAQDHVJnDjRUinIx2LsfkZWqvfQ2Y+ma3xYYDYC0tjpT/kJd7EHy7oN/vqcir8g88evGvZUCmfJ5P/bAVRk9ChVvshQGTl1N6gBVVXsgHO0dMKXwfuMUk5BkSH70LmdkwDVInXygFch6j8z+vAQ8CrMmKp4CkoDlVQKL043Jps4oZNUT9wsu8e/BINNuhxbd+Yu+sMtlqVMx6KIhAWJM8HKg/ottH991RFitvTXsinEd0BE8ZuqO+B5JG6V8wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "geolocation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "18"
+}

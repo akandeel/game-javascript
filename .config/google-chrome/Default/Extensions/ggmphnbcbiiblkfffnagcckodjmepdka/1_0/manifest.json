@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://invoicebinder.com/"
+      },
+      "urls": [ "http://invoicebinder.com/" ]
+   },
+   "description": "Invoice Binder is simple and easy to use invoicing software. Create invoices and get paid fast.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhdJOb2RmgrVAK0devvIBr2tP7VBQVwMRkMqgfkADeG9jaRHDZ//kLCSpuRMZWigqwgIBHQF4QriUBWhJewoZs9s8JuGZVF5l6+/yt6N3Vzi4E87Yft5x9O2ePRi/leVW+6WMRU3787AcJ7tf9m24C24/TgRsdBTM2b/CPmyF8oO6NeJPaVP5E2AJq5ui5HT2UB6/SgMEHAxqzpg9IHEtFza+n2c5QMDTFATQtWVXoQoV4Lpj86xq/VCPGHgXKAI6sFZ1zh+jJ7YqZdzylSqCOmrAoX2l17NOnAThlTjB1wjqWQ7J9X2wwcgzDPgh8IFkQn6sBjDO9m682B3IuvIXiQIDAQAB",
+   "manifest_version": 2,
+   "name": "Invoice Binder",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

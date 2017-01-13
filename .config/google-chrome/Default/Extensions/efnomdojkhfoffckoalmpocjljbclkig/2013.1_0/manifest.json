@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://exitadviser.com/calculate-business-value.aspx"
+      },
+      "urls": [ "http://exitadviser.com/calculate-business-value.aspx" ]
+   },
+   "description": "Easy to use online business valuation tool to calculate the value of your business.",
+   "homepage_url": "http://exitadviser.com",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsfS2H5GhH1Hu1OxYwsoMw002MJ3vRzQsjfDnGF2Cs8nUwcqVPsNw+Aaz+OPC8/Y8vFYlUxQt5IxV/j+wJpNr98caUw1cg3lxl5LDYzF6aS0B2TXhZDoSTvad3s2LGhoZYB4LKg4hC58bIB5F+dIllipjSJVMWBscp+x8jFAmKUwIDAQAB",
+   "manifest_version": 2,
+   "name": "Business Valuation Tool",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2013.1"
+}

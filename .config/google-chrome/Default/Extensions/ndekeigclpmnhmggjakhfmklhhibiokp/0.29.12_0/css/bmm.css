@@ -1,0 +1,19 @@
+a:active {outline:none;}
+a:focus {-moz-outline-style:none;}
+
+.bmmHeader{
+	list-style-image: url("chrome://bmm/skin/bmm_48x48.png");
+	background:#eee;
+	color:#444;
+	padding:4px;
+	margin-bottom:3px
+}
+.bmmTitle{
+	margin-left:5px;
+	color:red;
+}
+.bmmLogo{
+	width:48px;
+	height:48px;
+	margin-right:7px;
+}
