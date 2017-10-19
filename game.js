@@ -14,6 +14,14 @@ $(function() {
     if (youHit){
       console.log("Good knight You have struck the dragon and did" + damageThisRound + "damage!");
       totalDamage += damageThisRound;
+
+        if (totalDamage >= 4){
+          console.log("You did it good Knight! You slayed the dragon!");
+          slaying = flase;
+        }
+        else {
+          youHit = Math.floor(Math.random()*2);
+        }
     }
   }
 })
