@@ -2,7 +2,6 @@
 
 //BUILT IN JAVASCRIPT
 
-//test for git commit
 
 $(function() {
 
