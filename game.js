@@ -22,6 +22,11 @@ $(function() {
         else {
           youHit = Math.floor(Math.random()*2);
         }
+        else {
+          console.log("The dragon has destroyed you!");
+          slaying = flase;
+          
+        }
     }
   }
 })
