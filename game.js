@@ -13,6 +13,7 @@ $(function() {
   while (slaying) {
     if (youHit){
       console.log("Good knight You have struck the dragon and did" + damageThisRound + "damage!");
+      totalDamage += damageThisRound;
     }
   }
 })
