@@ -1,6 +1,25 @@
-2017/01/10-10:29:38.442 2642 Reusing MANIFEST /home/amr/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2017/01/10-10:29:38.442 2642 Recovering log #3
-2017/01/10-10:29:38.443 2642 Reusing old log /home/amr/.config/google-chrome/Default/Session Storage/000003.log 
-2017/01/10-10:29:53.625 2799 Level-0 table #5: started
-2017/01/10-10:29:53.632 2799 Level-0 table #5: 30027 bytes OK
-2017/01/10-10:29:53.638 2799 Delete type=0 #3
+2017/01/23-09:59:28.694 2578 Reusing MANIFEST /home/amr/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2017/01/23-09:59:28.694 2578 Recovering log #215
+2017/01/23-09:59:28.696 2578 Level-0 table #218: started
+2017/01/23-09:59:28.717 2578 Level-0 table #218: 18030 bytes OK
+2017/01/23-09:59:28.717 2578 Recovering log #217
+2017/01/23-09:59:28.717 2578 Reusing old log /home/amr/.config/google-chrome/Default/Session Storage/000217.log 
+2017/01/23-09:59:28.744 2578 Delete type=0 #215
+2017/01/23-13:54:50.035 8398 Level-0 table #220: started
+2017/01/23-13:54:50.053 8398 Level-0 table #220: 34031 bytes OK
+2017/01/23-13:54:50.070 8398 Delete type=0 #217
+2017/01/23-13:54:50.070 8398 Compacting 4@0 + 1@1 files
+2017/01/23-13:54:50.105 8398 Generated table #221@0: 2977 keys, 66467 bytes
+2017/01/23-13:54:50.105 8398 Compacted 4@0 + 1@1 files => 66467 bytes
+2017/01/23-13:54:50.119 8398 compacted to: files[ 0 1 6 0 0 0 0 ]
+2017/01/23-13:54:50.119 8398 Delete type=2 #214
+2017/01/23-13:54:50.119 8398 Delete type=2 #218
+2017/01/23-13:54:50.120 8398 Delete type=2 #220
+2017/01/23-13:54:50.120 8398 Delete type=2 #212
+2017/01/23-13:54:50.120 8398 Delete type=2 #216
+2017/01/23-13:56:22.876 8398 Level-0 table #223: started
+2017/01/23-13:56:22.897 8398 Level-0 table #223: 72784 bytes OK
+2017/01/23-13:56:22.910 8398 Delete type=0 #219
+2017/01/23-15:35:03.572 8398 Level-0 table #225: started
+2017/01/23-15:35:03.602 8398 Level-0 table #225: 165624 bytes OK
+2017/01/23-15:35:03.617 8398 Delete type=0 #222

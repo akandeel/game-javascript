@@ -1,0 +1,772 @@
+2017-01-16T20:25:16.257Z - info: Creating local storage instance at path: /home/amr/.config/Slack/local-settings.json
+2017-01-16T20:25:16.260Z - error: Couldn't load /home/amr/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/amr/.config/Slack/local-settings.json'
+2017-01-16T20:25:16.635Z - info: Creating local storage instance at path: /home/amr/.config/Slack/redux-state.json
+2017-01-16T20:25:16.637Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T056AV14H",
+      "teamsByIndex": [
+        "T056AV14H"
+      ],
+      "windowSettings": {
+        "size": [
+          1113,
+          845
+        ],
+        "position": [
+          436,
+          130
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.3.4",
+      "versionName": "Under Pressure",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 4,
+        "minor": 4,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "webappSrcPath": null,
+      "isDevMode": false,
+      "devEnv": null,
+      "launchedWithLink": null,
+      "logFile": null,
+      "openDevToolsOnStart": false,
+      "pretendNotReallyWindows10": false,
+      "releaseChannel": "prod",
+      "isMacAppStore": false,
+      "isWindowsStore": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": true,
+      "reportIssueOnStartup": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true,
+        "macgap": false
+      },
+      "hasCleanedLogFilesForSpellcheckBug": true,
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "whitelistedUrlSchemes": [
+        "http:",
+        "https:",
+        "mailto:",
+        "skype:",
+        "spotify:",
+        "live:",
+        "callto:",
+        "tel:",
+        "im:",
+        "sip:",
+        "sips:"
+      ],
+      "PrefSSBFileDownloadPath": "/home/amr/Downloads",
+      "useHwAcceleration": true,
+      "hasShownWelcomeBalloon": false
+    },
+    "teams": {
+      "T056AV14H": {
+        "id": "U3PJ9K4UV",
+        "name": "akandeel",
+        "team_id": "T056AV14H",
+        "team_name": "Bitmaker (Students)",
+        "team_url": "https://bitmaker-students.slack.com/",
+        "unreads": 18,
+        "unreadHighlights": 2,
+        "showBullet": true,
+        "initials": "B(",
+        "user_id": "U3PJ9K4UV",
+        "icons": {
+          "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_34.jpg",
+          "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_44.jpg",
+          "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_68.jpg",
+          "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_88.jpg",
+          "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_102.jpg",
+          "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg",
+          "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_original.jpg",
+          "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg"
+        },
+        "theme": {
+          "column_bg": "#4D394B",
+          "menu_bg": "#3E313C",
+          "active_item": "#4C9689",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#3E313C",
+          "text_color": "#FFFFFF",
+          "active_presence": "#38978D",
+          "badge": "#EB4D5C"
+        }
+      }
+    }
+  }
+}
+2017-01-16T20:25:16.646Z - info: No state in keychain, starting from scratch
+2017-01-16T20:25:16.647Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2017-01-16T20:25:16.753Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.3.4",
+  "versionName": "Under Pressure",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 4,
+    "build": 0
+  },
+  "isTitleBarHidden": false
+}
+2017-01-16T20:25:16.853Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-01-16T20:25:16.858Z - info: Loading windowMetrics: {"size":[1113,845],"position":[436,130],"isMaximized":false}
+2017-01-16T20:25:16.986Z - info: Welcome to Slack 2.3.4 x64
+2017-01-16T20:25:16.986Z - info: App load time: 743ms
+2017-01-16T20:25:16.987Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:25:18.431Z - info: Main window finished load. Launched on login: false
+2017-01-16T20:25:18.438Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:25:18.456Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:25:18.458Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:26:37.343Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:55:12.236Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:55:13.317Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:55:16.866Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    436,
+    158
+  ],
+  "isMaximized": false
+}
+2017-01-16T20:57:17.157Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:58:44.726Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:58:58.060Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:59:28.322Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:59:32.556Z - info: SET_FULL_SCREEN : false
+2017-01-16T20:59:57.347Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:06.050Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:07.826Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:15.112Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:16.066Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:21.324Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:00:31.197Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:01:46.612Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:01:54.179Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:02:04.840Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:02:16.971Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:02:42.133Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:02:59.159Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:03.166Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:04.800Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:04.897Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:06.215Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:06.351Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:08.768Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:03:10.592Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:04:38.609Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:04:40.234Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:04:45.050Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:04:53.823Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:06:19.599Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:07:10.751Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:07:15.171Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:07:40.368Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:07:44.244Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:11:14.641Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:11:23.071Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:20:09.717Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:20:10.144Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:20:10.148Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:25:16.883Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    169
+  ],
+  "isMaximized": false
+}
+2017-01-16T21:31:34.599Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:31:43.123Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:31:48.331Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:27.655Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-16T21:33:27.675Z - info: FOREGROUND_APP 
+2017-01-16T21:33:27.684Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:27.704Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:33.487Z - info: Attempted to close the window, hiding due to run from tray
+2017-01-16T21:33:39.429Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-16T21:33:39.435Z - info: FOREGROUND_APP 
+2017-01-16T21:33:39.448Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:39.450Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:39.454Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:39.455Z - info: SET_FULL_SCREEN : false
+2017-01-16T21:33:50.847Z - info: DOWNLOAD_STARTED : {
+  "token": "24d56b8d-42aa-4a50-9294-924214a3fdde",
+  "filePath": "/home/amr/Downloads/command line tutorial.pdf"
+}
+2017-01-16T21:33:50.889Z - info: DOWNLOAD_FINISHED : {
+  "token": "24d56b8d-42aa-4a50-9294-924214a3fdde",
+  "state": "completed"
+}
+2017-01-16T21:35:27.455Z - info: Attempted to close the window, hiding due to run from tray
+2017-01-16T21:55:16.946Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    85
+  ],
+  "isMaximized": false
+}
+2017-01-16T22:25:17.054Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    85
+  ],
+  "isMaximized": false
+}
+2017-01-16T22:55:17.167Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    85
+  ],
+  "isMaximized": false
+}
+2017-01-16T23:37:11.408Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-16T23:37:11.426Z - info: FOREGROUND_APP 
+2017-01-16T23:37:11.433Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:37:11.442Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:37:11.451Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:37:35.132Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:44:33.229Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-16T23:44:33.243Z - info: FOREGROUND_APP 
+2017-01-16T23:44:33.271Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:46:07.686Z - info: SET_FULL_SCREEN : false
+2017-01-16T23:48:40.196Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    113
+  ],
+  "isMaximized": false
+}
+2017-01-17T00:03:03.104Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-17T00:03:03.120Z - info: FOREGROUND_APP 
+2017-01-17T00:03:03.146Z - info: SET_FULL_SCREEN : false
+2017-01-17T00:03:31.354Z - info: SET_FULL_SCREEN : false
+2017-01-17T00:18:40.318Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    113
+  ],
+  "isMaximized": false
+}
+2017-01-17T00:48:40.395Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    113
+  ],
+  "isMaximized": false
+}
+2017-01-17T00:52:17.282Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:04:59.308Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:10:13.107Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:10:13.639Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:10:13.664Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:11:49.404Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:17:49.520Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-17T15:17:49.526Z - info: FOREGROUND_APP 
+2017-01-17T15:17:49.576Z - info: SET_FULL_SCREEN : false
+2017-01-17T15:20:20.653Z - info: Attempted to close the window, hiding due to run from tray
+2017-01-17T15:31:12.092Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-17T16:01:12.175Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-17T16:31:12.301Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-17T17:01:12.347Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-17T17:31:12.483Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-17T18:52:45.374Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-17T18:52:45.414Z - info: FOREGROUND_APP 
+2017-01-17T18:52:45.433Z - info: SET_FULL_SCREEN : false
+2017-01-17T18:52:45.441Z - info: SET_FULL_SCREEN : false
+2017-01-17T18:52:45.442Z - info: SET_FULL_SCREEN : false
+2017-01-17T18:53:27.323Z - info: SET_FULL_SCREEN : false
+2017-01-17T18:53:34.509Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-17T18:53:34.514Z - info: FOREGROUND_APP 
+2017-01-17T18:53:34.541Z - info: SET_FULL_SCREEN : false
+2017-01-17T18:54:07.577Z - info: Attempted to close the window, hiding due to run from tray
+2017-01-17T19:04:20.057Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    29
+  ],
+  "isMaximized": false
+}
+2017-01-17T19:34:20.175Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    29
+  ],
+  "isMaximized": false
+}
+2017-01-17T20:04:20.315Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    29
+  ],
+  "isMaximized": false
+}
+2017-01-17T20:34:20.436Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    29
+  ],
+  "isMaximized": false
+}
+2017-01-17T21:38:21.815Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    29
+  ],
+  "isMaximized": false
+}
+2017-01-20T19:12:16.696Z - info: Creating local storage instance at path: /home/amr/.config/Slack/local-settings.json
+2017-01-20T19:12:16.699Z - error: Couldn't load /home/amr/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/amr/.config/Slack/local-settings.json'
+2017-01-20T19:12:17.095Z - info: Creating local storage instance at path: /home/amr/.config/Slack/redux-state.json
+2017-01-20T19:12:17.099Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T056AV14H",
+      "teamsByIndex": [
+        "T056AV14H"
+      ],
+      "windowSettings": {
+        "size": [
+          1113,
+          845
+        ],
+        "position": [
+          432,
+          29
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.3.4",
+      "versionName": "Under Pressure",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 4,
+        "minor": 4,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "webappSrcPath": null,
+      "isDevMode": false,
+      "devEnv": null,
+      "launchedWithLink": null,
+      "logFile": null,
+      "openDevToolsOnStart": false,
+      "pretendNotReallyWindows10": false,
+      "releaseChannel": "prod",
+      "isMacAppStore": false,
+      "isWindowsStore": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": true,
+      "reportIssueOnStartup": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true,
+        "macgap": false
+      },
+      "hasCleanedLogFilesForSpellcheckBug": true,
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "whitelistedUrlSchemes": [
+        "http:",
+        "https:",
+        "mailto:",
+        "skype:",
+        "spotify:",
+        "live:",
+        "callto:",
+        "tel:",
+        "im:",
+        "sip:",
+        "sips:"
+      ],
+      "PrefSSBFileDownloadPath": "/home/amr/Downloads",
+      "useHwAcceleration": true,
+      "hasShownWelcomeBalloon": false
+    },
+    "teams": {
+      "T056AV14H": {
+        "id": "U3PJ9K4UV",
+        "name": "akandeel",
+        "team_id": "T056AV14H",
+        "team_name": "Bitmaker (Students)",
+        "team_url": "https://bitmaker-students.slack.com/",
+        "unreads": 28,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B(",
+        "user_id": "U3PJ9K4UV",
+        "icons": {
+          "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_34.jpg",
+          "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_44.jpg",
+          "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_68.jpg",
+          "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_88.jpg",
+          "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_102.jpg",
+          "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg",
+          "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_original.jpg",
+          "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg"
+        },
+        "theme": {
+          "column_bg": "#4D394B",
+          "menu_bg": "#3E313C",
+          "active_item": "#4C9689",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#3E313C",
+          "text_color": "#FFFFFF",
+          "active_presence": "#38978D",
+          "badge": "#EB4D5C"
+        }
+      }
+    }
+  }
+}
+2017-01-20T19:12:17.107Z - info: No state in keychain, starting from scratch
+2017-01-20T19:12:17.108Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2017-01-20T19:12:17.212Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.3.4",
+  "versionName": "Under Pressure",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 4,
+    "build": 0
+  },
+  "isTitleBarHidden": false
+}
+2017-01-20T19:12:17.324Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-01-20T19:12:17.329Z - info: Loading windowMetrics: {"size":[1113,845],"position":[432,29],"isMaximized":false}
+2017-01-20T19:12:17.432Z - info: Welcome to Slack 2.3.4 x64
+2017-01-20T19:12:17.432Z - info: App load time: 750ms
+2017-01-20T19:12:17.434Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:12:18.874Z - info: Main window finished load. Launched on login: false
+2017-01-20T19:12:18.890Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:12:18.906Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:12:18.907Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:14:36.256Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:21:42.222Z - info: SELECT_TEAM : "T056AV14H"
+2017-01-20T19:21:42.241Z - info: FOREGROUND_APP 
+2017-01-20T19:21:42.269Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:23:25.707Z - info: DOWNLOAD_STARTED : {
+  "token": "49bc5223-c659-4c4e-8a8d-b3ab86603b8f",
+  "filePath": "/home/amr/Downloads/Coffee___Code_01.md"
+}
+2017-01-20T19:23:25.736Z - info: DOWNLOAD_FINISHED : {
+  "token": "49bc5223-c659-4c4e-8a8d-b3ab86603b8f",
+  "state": "completed"
+}
+2017-01-20T19:24:52.694Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:25:36.584Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:26:59.820Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:32:28.077Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:32:28.513Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:32:28.536Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:32:50.578Z - info: SET_FULL_SCREEN : false
+2017-01-20T19:43:33.367Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-20T20:04:00.126Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:19:28.872Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:20:58.009Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:21:07.667Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:28:41.502Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-20T21:32:22.855Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:32:25.286Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:41:52.477Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:42:12.154Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:43:18.807Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:43:21.198Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:43:51.723Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:50:35.845Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:50:37.669Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:58:11.032Z - info: SET_FULL_SCREEN : false
+2017-01-20T21:58:41.568Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-20T22:13:48.445Z - info: SET_FULL_SCREEN : false
+2017-01-20T22:14:11.973Z - info: SET_FULL_SCREEN : false
+2017-01-20T22:15:37.910Z - info: SET_FULL_SCREEN : false
+2017-01-20T23:30:10.374Z - info: SET_FULL_SCREEN : false
+2017-01-20T23:42:32.422Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-21T00:12:32.544Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-21T00:23:16.928Z - info: SET_FULL_SCREEN : false
+2017-01-21T00:23:17.378Z - info: SET_FULL_SCREEN : false
+2017-01-21T00:23:17.381Z - info: SET_FULL_SCREEN : false
+2017-01-22T19:29:21.332Z - info: SET_FULL_SCREEN : false
+2017-01-22T19:32:12.626Z - info: SET_FULL_SCREEN : false
+2017-01-22T19:39:39.283Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-22T20:09:39.398Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-22T20:39:39.544Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-22T20:53:56.634Z - info: SET_FULL_SCREEN : false
+2017-01-22T20:53:57.074Z - info: SET_FULL_SCREEN : false
+2017-01-22T20:53:57.084Z - info: SET_FULL_SCREEN : false
+2017-01-22T21:09:39.684Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-22T21:13:12.271Z - info: SET_FULL_SCREEN : false
+2017-01-22T21:24:52.684Z - info: SET_FULL_SCREEN : false
+2017-01-22T21:24:53.197Z - info: SET_FULL_SCREEN : false
+2017-01-22T21:24:53.201Z - info: SET_FULL_SCREEN : false
+2017-01-22T21:39:39.802Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1113,
+    845
+  ],
+  "position": [
+    432,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-22T22:49:29.247Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:49:44.653Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:49:46.472Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:50:09.071Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:51:15.882Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:57:28.649Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:57:32.025Z - info: SET_FULL_SCREEN : false
+2017-01-22T22:57:40.388Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:02:28.357Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:02:31.406Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:02:34.435Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:05:23.129Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:05:24.881Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:28.120Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:30.527Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:35.518Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:40.749Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:43.341Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:51.152Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:52.425Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:52.449Z - info: SET_FULL_SCREEN : false
+2017-01-22T23:18:52.450Z - info: SET_FULL_SCREEN : false

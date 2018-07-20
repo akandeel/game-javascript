@@ -1,0 +1,512 @@
+2017-01-13T15:24:30.390Z - info: UPDATE_NO_DRAG_REGION : {
+  "region": {
+    "id": "search",
+    "width": 126,
+    "height": 18,
+    "top": 21.1875,
+    "left": 846
+  }
+}
+2017-01-13T15:24:30.433Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_original.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg"
+  },
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:30.708Z - info: SELECT_CHANNEL : "C056AV19H"
+2017-01-13T15:24:30.721Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#4D394B",
+    "menu_bg": "#3E313C",
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#3E313C",
+    "text_color": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C"
+  },
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.039Z - info: SELECT_CHANNEL : "D3Q69EG2J"
+2017-01-13T15:24:31.094Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.250Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.252Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.254Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.255Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.257Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.257Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.259Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.260Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.263Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.264Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:31.839Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 8,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:32.436Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 14,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:33.114Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 35,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T15:24:36.719Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T15:24:37.070Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T15:24:42.717Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T15:24:47.848Z - info: Unloading spellchecker
+2017-01-13T16:09:54.831Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 36,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:09:54.832Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 36,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:09:54.845Z - info: NEW_NOTIFICATION : {
+  "id": "716d2ecb-882e-457d-aa61-529c290b6042",
+  "launchUri": "slack://channel?id=G2CGTL7PG&message=1484323794.000069&team=T056AV14H",
+  "imageUri": null,
+  "channel": "G2CGTL7PG",
+  "msg": "1484323794.000069",
+  "avatarImage": "https://ca.slack-edge.com/T056AV14H-U26HDM22X-d73b23889454-512",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:16:21.089Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 37,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:04.399Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 38,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:11.235Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 39,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:12.484Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 40,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:14.435Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 41,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:17.507Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:18:22.526Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:23:58.904Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:24:22.185Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:25:13.962Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:30.579Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 45,
+  "unreadHighlights": 10,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:36.527Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:40.244Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 45,
+  "unreadHighlights": 10,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:40.280Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:43.952Z - info: SELECT_CHANNEL : "D3PDQ5ZLK"
+2017-01-13T16:29:49.016Z - info: SELECT_CHANNEL : "D3R43K2G4"
+2017-01-13T16:29:49.123Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:49.403Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:49.451Z - info: Raw Locale list: ["C","C.UTF-8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","POSIX",""]
+2017-01-13T16:29:49.452Z - info: Filtered Locale list: ["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"]
+2017-01-13T16:29:49.452Z - info: Counts: {"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"]}
+2017-01-13T16:29:49.452Z - info: Result: {"en":"en-CA"}
+2017-01-13T16:29:49.455Z - info: Requesting to load en-CA, alternatives are ["en-CA","en-CA","en-US"]
+2017-01-13T16:29:49.457Z - info: Loading dictionary for language en-CA
+2017-01-13T16:29:49.457Z - info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-ca-7-1.bdic
+2017-01-13T16:29:49.959Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T16:29:50.113Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T16:29:50.113Z - info: Creating node-spellchecker instance
+2017-01-13T16:29:50.115Z - info: Actually installing spell check provider to Electron
+2017-01-13T16:29:50.936Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:50.962Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 44,
+  "unreadHighlights": 9,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:29:52.473Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 8,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:30:56.617Z - info: Attempting detection, string length: 57
+2017-01-13T16:30:56.642Z - info: Attempting detection, string length: 57
+2017-01-13T16:30:56.712Z - info: SELECT_CHANNEL : "C056AV19H"
+2017-01-13T16:30:57.089Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 7,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:30:57.090Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 7,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:30:57.136Z - info: Auto-detected language as en
+2017-01-13T16:30:57.137Z - info: New Language is en-CA
+2017-01-13T16:30:57.139Z - info: Auto-detected language as en
+2017-01-13T16:30:57.140Z - info: New Language is en-CA
+2017-01-13T16:30:57.342Z - info: Loading dictionary for language en-CA
+2017-01-13T16:30:57.342Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T16:30:57.343Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T16:31:04.682Z - info: SELECT_CHANNEL : "C1NM8FWRE"
+2017-01-13T16:31:06.996Z - info: Loading dictionary for language en-CA
+2017-01-13T16:31:06.996Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T16:31:06.997Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T16:31:15.264Z - info: SELECT_CHANNEL : "C1NMKHCU9"
+2017-01-13T16:31:21.266Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T16:32:38.888Z - info: SELECT_CHANNEL : "G2CGTL7PG"
+2017-01-13T16:32:39.312Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 17,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:32:39.314Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 17,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:32:39.630Z - info: Loading dictionary for language en-CA
+2017-01-13T16:32:39.630Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T16:32:39.631Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T16:32:49.226Z - info: START_DOWNLOAD : {
+  "token": "00ef2874-9e65-4838-9f0f-b9c8f4917f5f",
+  "url": "https://files.slack.com/files-pri/T056AV14H-F3RBF66J0/download/responsive-students.zip",
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:32:53.996Z - info: REVEAL_DOWNLOAD : "00ef2874-9e65-4838-9f0f-b9c8f4917f5f"
+2017-01-13T16:32:54.150Z - info: Unloading spellchecker
+2017-01-13T16:35:19.971Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 18,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T16:44:07.457Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 19,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T17:39:15.590Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 20,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T17:39:19.788Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 19,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T17:52:30.673Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 20,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:23.665Z - info: Window is unloading, winssb is no longer accessible
+2017-01-13T18:59:26.166Z - info: UPDATE_NO_DRAG_REGION : {
+  "region": {
+    "id": "search",
+    "width": 126,
+    "height": 18,
+    "top": 21.1875,
+    "left": 846
+  }
+}
+2017-01-13T18:59:26.382Z - info: SELECT_CHANNEL : "G2CGTL7PG"
+2017-01-13T18:59:27.159Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#4D394B",
+    "menu_bg": "#3E313C",
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#3E313C",
+    "text_color": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C"
+  },
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:27.443Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_original.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-11-03/13790182449_5c1c315eb35e2177875b_132.jpg"
+  },
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:27.886Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.124Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.126Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.128Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.128Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.129Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.153Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 5,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.182Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 5,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.459Z - info: Raw Locale list: ["C","C.UTF-8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","POSIX",""]
+2017-01-13T18:59:28.459Z - info: Filtered Locale list: ["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"]
+2017-01-13T18:59:28.459Z - info: Counts: {"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"]}
+2017-01-13T18:59:28.460Z - info: Result: {"en":"en-CA"}
+2017-01-13T18:59:28.462Z - info: Loading dictionary for language en-CA
+2017-01-13T18:59:28.463Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T18:59:28.650Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 18,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T18:59:28.664Z - info: Loading dictionary for language en-CA
+2017-01-13T18:59:28.665Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T18:59:28.665Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T18:59:28.666Z - info: Creating node-spellchecker instance
+2017-01-13T18:59:28.667Z - info: Actually installing spell check provider to Electron
+2017-01-13T18:59:28.668Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T18:59:28.704Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 20,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T19:07:28.500Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 18,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T19:07:31.950Z - info: SELECT_CHANNEL : "D3R43K2G4"
+2017-01-13T19:07:37.953Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-01-13T19:08:27.733Z - info: Attempting detection, string length: 54
+2017-01-13T19:08:27.734Z - info: Attempting detection, string length: 54
+2017-01-13T19:08:28.098Z - info: Auto-detected language as en
+2017-01-13T19:08:28.099Z - info: New Language is en-CA
+2017-01-13T19:08:28.106Z - info: Auto-detected language as en
+2017-01-13T19:08:28.106Z - info: New Language is en-CA
+2017-01-13T19:09:44.288Z - info: Unloading spellchecker
+2017-01-13T20:23:37.845Z - info: Restoring spellchecker
+2017-01-13T20:23:37.848Z - info: Loading dictionary for language en-CA
+2017-01-13T20:23:37.849Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T20:23:37.865Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T20:23:37.865Z - info: Creating node-spellchecker instance
+2017-01-13T20:23:37.866Z - info: Actually installing spell check provider to Electron
+2017-01-13T20:24:00.939Z - info: SELECT_CHANNEL : "G2CGTL7PG"
+2017-01-13T20:24:01.586Z - info: Loading dictionary for language en-CA
+2017-01-13T20:24:01.587Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-13T20:24:01.588Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-13T20:24:11.926Z - info: REVEAL_DOWNLOAD : "00ef2874-9e65-4838-9f0f-b9c8f4917f5f"
+2017-01-13T20:24:12.158Z - info: Unloading spellchecker
+2017-01-13T21:20:30.560Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 18,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-13T21:21:40.444Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 18,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T056AV14H"
+}
+2017-01-15T20:40:15.882Z - info: Restoring spellchecker
+2017-01-15T20:40:15.883Z - info: Loading dictionary for language en-CA
+2017-01-15T20:40:15.883Z - info: Returning local copy: /home/amr/.config/Slack/dictionaries/en-CA.bdic
+2017-01-15T20:40:15.889Z - info: Setting current spellchecker to en-CA, requested language was en-CA
+2017-01-15T20:40:15.889Z - info: Creating node-spellchecker instance
+2017-01-15T20:40:15.890Z - info: Actually installing spell check provider to Electron
+2017-01-15T20:40:47.384Z - info: SELECT_CHANNEL : "D3Q69EG2J"
+2017-01-15T20:40:52.033Z - info: Unloading spellchecker
+2017-01-15T20:40:53.691Z - info: Failed to get messages from webapp: Failed to fetch recent messages

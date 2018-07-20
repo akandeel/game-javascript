@@ -1,18 +1,19 @@
 openConnection: connect: No such file or directory
 cannot connect to brltty at :0
-upstart: bamfdaemon main process (1341) killed by TERM signal
-upstart: gnome-session (Unity) main process (1390) killed by HUP signal
-upstart: unity-panel-service main process (1396) killed by HUP signal
-upstart: indicator-bluetooth main process (1425) killed by TERM signal
-upstart: indicator-power main process (1426) killed by TERM signal
-upstart: indicator-datetime main process (1427) killed by TERM signal
-upstart: indicator-sound main process (1429) killed by HUP signal
-upstart: indicator-printers main process (1430) killed by TERM signal
-upstart: indicator-session main process (1431) killed by TERM signal
-upstart: indicator-application main process (1448) killed by TERM signal
-upstart: indicator-application pre-stop process (32598) killed by TERM signal
-upstart: gnome-session (Unity) pre-stop process (32599) killed by TERM signal
-upstart: hud main process (1381) killed by HUP signal
+upstart: upstart-dbus-session-bridge main process (1259) terminated with status 1
+upstart: bamfdaemon main process (1320) killed by TERM signal
+upstart: hud main process (1361) killed by HUP signal
+upstart: unity-settings-daemon main process (1363) killed by HUP signal
+upstart: gnome-session (Unity) main process (1372) killed by HUP signal
+upstart: unity-panel-service main process (1375) killed by HUP signal
+upstart: indicator-bluetooth main process (1404) killed by TERM signal
+upstart: indicator-power main process (1405) killed by TERM signal
+upstart: indicator-datetime main process (1406) killed by TERM signal
+upstart: indicator-sound main process (1408) killed by HUP signal
+upstart: indicator-printers main process (1409) killed by TERM signal
+upstart: indicator-session main process (1410) killed by TERM signal
+upstart: indicator-application main process (1419) killed by TERM signal
+upstart: gnome-session (Unity) pre-stop process (9239) killed by TERM signal
+upstart: indicator-application pre-stop process (9238) killed by TERM signal
 upstart: Disconnected from notified D-Bus bus
-upstart: unity-settings-daemon main process (1383) killed by HUP signal
-upstart: unity7 main process (1475) terminated with status 1
+upstart: unity7 main process (1456) terminated with status 1

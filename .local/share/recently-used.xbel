@@ -73,7 +73,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-display-layout/index.html" added="2017-01-11T18:41:38Z" modified="2017-01-12T21:39:20Z" visited="2017-01-11T18:41:38Z">
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-display-layout/index.html" added="2017-01-11T18:41:38Z" modified="2017-01-16T01:45:39Z" visited="2017-01-11T18:41:38Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -81,7 +81,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T21:39:20Z" count="8"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-16T01:45:39Z" count="10"/>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-11T19:35:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
@@ -307,17 +307,17 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-site-replication-master/starter-code/index.html" added="2017-01-12T20:21:57Z" modified="2017-01-12T20:21:57Z" visited="2017-01-12T20:21:57Z">
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-site-replication-master/starter-code/index.html" added="2017-01-12T20:21:57Z" modified="2017-01-12T23:07:17Z" visited="2017-01-12T20:21:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-12T20:21:57Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-12T23:07:17Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/amr/.cache/.fr-HTTpnD/css-site-replication-master/readme.md" added="2017-01-12T21:40:30Z" modified="2017-01-12T21:40:30Z" visited="2017-01-12T21:40:30.934148Z">
+  <bookmark href="file:///home/amr/.cache/.fr-HTTpnD/css-site-replication-master/readme.md" added="2017-01-12T21:40:30Z" modified="2017-01-12T21:40:30Z" visited="2017-01-12T21:40:30Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -326,6 +326,245 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-12T21:40:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/slack-desktop-2.3.4-amd64.deb" added="2017-01-13T15:20:21Z" modified="2017-01-13T15:20:25Z" visited="2017-01-13T15:20:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-01-13T15:20:21Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2017-01-13T15:20:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/responsive-students.zip" added="2017-01-13T16:33:31Z" modified="2017-01-13T16:33:31Z" visited="2017-01-13T16:33:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-01-13T16:33:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/responsive-students/index.html" added="2017-01-13T16:33:44Z" modified="2017-01-13T20:24:39Z" visited="2017-01-13T16:33:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-01-13T20:24:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/now-playing" added="2017-01-13T19:54:09Z" modified="2017-01-13T19:54:09Z" visited="2017-01-13T19:54:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-13T19:54:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/responsive-students/README.md" added="2017-01-13T20:24:21Z" modified="2017-01-13T20:24:21Z" visited="2017-01-13T20:24:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-13T20:24:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/now-playing/now-playing-static/css/styles.css" added="2017-01-13T21:03:17Z" modified="2017-01-13T21:03:17Z" visited="2017-01-13T21:03:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-13T21:03:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/now-playing/now-playing-static" added="2017-01-13T21:04:10Z" modified="2017-01-13T21:04:10Z" visited="2017-01-13T21:04:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-13T21:04:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/copycat-assignment/index.html" added="2017-01-16T01:48:14Z" modified="2017-01-16T01:48:28Z" visited="2017-01-16T01:48:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-16T01:48:14Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-16T01:48:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/css-positioning/part-1/index.html" added="2017-01-16T01:50:43Z" modified="2017-01-16T01:50:43Z" visited="2017-01-16T01:50:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/atom/atom %F&apos;" modified="2017-01-16T01:50:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/jan.%2017th%20arrays" added="2017-01-17T16:13:30Z" modified="2017-01-18T02:15:31Z" visited="2017-01-17T16:13:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-01-17T16:13:30Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-18T02:15:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/ruby%20test%20jan.%2017" added="2017-01-17T17:33:54Z" modified="2017-01-24T06:10:38Z" visited="2017-01-17T17:33:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-01-17T17:33:54Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-24T06:10:38Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-01-18T00:38:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals2/fundamentals.rb" added="2017-01-18T15:14:27Z" modified="2017-01-18T15:14:27Z" visited="2017-01-18T15:14:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-01-18T15:14:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/Untitled%20Document" added="2017-01-18T15:44:06Z" modified="2017-01-24T06:10:42Z" visited="2017-01-18T15:44:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-24T06:10:42Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/object-orient/bank-account.rb" added="2017-01-19T02:46:40Z" modified="2017-01-19T02:46:40Z" visited="2017-01-19T02:46:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-19T02:46:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/Untitled%20Document%202" added="2017-01-19T15:30:10Z" modified="2017-01-23T15:01:31Z" visited="2017-01-19T15:30:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-23T15:01:31Z" count="7"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-01-20T15:15:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/Ruby%20class%20mothods%20and%20variables" added="2017-01-20T15:11:32Z" modified="2017-01-20T15:11:32Z" visited="2017-01-20T15:11:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-20T15:11:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/debugging%20and%20testing" added="2017-01-23T15:02:19Z" modified="2017-01-24T06:10:58Z" visited="2017-01-23T15:02:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-24T06:10:58Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/contact.rb" added="2017-01-23T16:54:50Z" modified="2017-01-23T16:54:50Z" visited="2017-01-23T16:54:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-23T16:54:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Downloads/t2-fill-14e.pdf" added="2017-01-23T20:36:52Z" modified="2017-01-23T20:36:52Z" visited="2017-01-23T20:36:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-01-23T20:36:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amr/Desktop/bitmaker/projects/ruby_fundamentals/test_temperture.rb" added="2017-01-24T06:10:33Z" modified="2017-01-24T06:10:33Z" visited="2017-01-24T06:10:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-01-24T06:10:33Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,6 +1,0 @@
-pluginFn['/js/plugins/v2/uml-simplified.js'] = function(lucid, window) {
-	(function(){var b={global:this,provide:function(a){a=a.split(".");b.global[a[0]]=b.global[a[0]]||{};var c=b.global[a[0]];a.slice(1).reduce(function(a,d){a[d]||(a[d]={});return a[d]},c)},require:function(){},inherits:function(a,c){function b(){}b.prototype=c.prototype;a.superClass_=c.prototype;a.prototype=new b;a.prototype.constructor=a;a.base=function(a,b,f){var e=Array.prototype.slice.call(arguments,2);return c.prototype[b].apply(a,e)}},base:function(a,c,h){var d=arguments.callee.caller;if(b.STRICT_MODE_COMPATIBLE||
-b.DEBUG&&!d)throw Error("arguments.caller not defined.  goog.base() cannot be used with strict mode code. See http://www.ecma-international.org/ecma-262/5.1/#sec-C");if(d.superClass_)return d.superClass_.constructor.apply(a,Array.prototype.slice.call(arguments,1));for(var g=Array.prototype.slice.call(arguments,2),f=!1,e=a.constructor;e;e=e.superClass_&&e.superClass_.constructor)if(e.prototype[c]===d)f=!0;else if(f)return e.prototype[c].apply(a,g);if(a[c]===d)return a.constructor.prototype[c].apply(a,
-g);throw Error("goog.base called from a method of one name to a method of a different name");}};b.provide("plugin.uml-simplified")})();
-//# sourceMappingURL=/js/plugins/v2/source-maps/uml-simplified.js.map
-};

@@ -1,5 +1,5 @@
 {
-   "checksum": "e04e3fd6a028bc96386975cc52662971",
+   "checksum": "fee7fccf054591cce5bc078c989d2356",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24,7 +24,7 @@
                "stars.version": "sync.server.Chrome45"
             },
             "name": "BUSINESS PLAN - HOW TO WRITE",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "5",
             "type": "url",
             "url": "http://www.mitarabcompetition.com/images/pdf/writing-an-effective-business.pdf"
          }, {
@@ -98,9 +98,16 @@
                "sync_transaction_version": "1",
                "type": "url",
                "url": "http://qspace.library.queensu.ca/bitstream/1974/5671/1/Baey_Grace_HY_201005_MA.pdf"
+            }, {
+               "date_added": "13129054248630272",
+               "id": "215",
+               "name": "Loops | The Bastards Book of Ruby",
+               "sync_transaction_version": "4",
+               "type": "url",
+               "url": "http://ruby.bastardsbook.com/chapters/loops/"
             } ],
             "date_added": "13128462632147307",
-            "date_modified": "13128462632147307",
+            "date_modified": "13129054248630272",
             "id": "169",
             "name": "de Gaulle",
             "sync_transaction_version": "1",
@@ -1907,7 +1914,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "1",
+      "sync_transaction_version": "5",
       "synced": {
          "children": [ {
             "date_added": "13061581462806290",
